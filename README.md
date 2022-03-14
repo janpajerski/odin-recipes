@@ -12,3 +12,12 @@ My first The Odin Project project! In this project I will be building a basic re
 I'm probably missing a few things, but that's the gist. I will try to go a little deeper in terms and learn some more attributes to see what I can do with HTML only. 
 
 At the conclusion of the project I will update this readme file with a reflection. Here we go!!
+   
+Concluding reflection:
+   
+The project was straigh forward and went smoothly. I kept thing pretty basic using html only and incorporated most of the tags and attributes that have been referenced in the Odin Project to this point. A few new ones that I used:
+   
+  - <sub> for subscript
+  - &ensp; which is an entity that adds about "two" blank spaces. I'm not sure if this follows appropriate conventions, but it did the strick in spacing out my navigation menu links. 
+   
+Not much more to reflect than this. I'm looking forward to learning more!!
