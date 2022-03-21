@@ -35,8 +35,17 @@ h2 {
 .description {
     font-size: 25px;
     color: rgb(2, 26, 104);
+    background-color: rgb(245, 245, 101);
 }
 
+.ingredients {
+    background-color: rgb(166, 225, 243);
+}
+
+.steps {
+    background-color: rgb(213, 186, 238);
+    font-size: 20px;
+}
 
 /* I will make each recipe page unique by setting unique font-family, and background color properties for each body ID */
 
