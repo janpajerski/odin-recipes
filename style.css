@@ -1,0 +1,21 @@
+.recipe-name, .heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: green;
+}
+
+.recipe-name{
+    font-size: 36px;
+    background-color: aquamarine;
+}
+
+.heading{
+    color: white;
+}
+
+.nav-heading, .nav-menu{
+    background-color: violet;
+}
+
+ul, ol, p{
+    font-family: Verdana, sans-serif;
+}
